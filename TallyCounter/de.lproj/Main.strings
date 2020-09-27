@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Tally Counter"; ObjectID = "K1u-ap-I4B"; */
+"K1u-ap-I4B.text" = "Zählzähler";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "Rb6-XF-IY8"; */
+"Rb6-XF-IY8.normalTitle" = "Zurücksetzen";
+
+/* Class = "UIButton"; normalTitle = "Click Me!"; ObjectID = "YtW-db-4Mf"; */
+"YtW-db-4Mf.normalTitle" = "Klick mich!";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cLB-E1-9s5"; */
+"cLB-E1-9s5.text" = "0";
